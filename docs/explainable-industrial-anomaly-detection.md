@@ -58,11 +58,14 @@ Python, anomaly detection, Vision Expert, LVLM, heatmap/ROI analysis, MVTec AD C
 
 ## Public Release Status
 
-The experiment repository exists locally/remotely but is not used as the main CV link yet because the public-facing result page should prioritize workflow, visual examples, and Action Card outputs. A sanitized GitHub source link can be added after confirming that no API keys, private data, raw outputs, or local-only paths are exposed.
+Public-safe source code snapshot:
+
+https://github.com/arnold6444/explainable-industrial-anomaly-detection
+
+The repository excludes local datasets, generated outputs, API keys, experiment logs, and private environment files.
 
 ## Next Step
 
 - Add MVTec AD Cable example result: original image, heatmap, ROI crop, LVLM explanation, and Action Card.
 - Separate OPGW-specific results from proxy-data experiments.
 - Add a public report or sanitized GitHub repository after secret and data checks.
-
