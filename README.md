@@ -5,5 +5,5 @@
 ## 프로젝트
 
 - [Youtube Automation System](docs/youtube-automation-system.md)
-- [SemiVision Defect Copilot](docs/semivision-defect-copilot.md)
+- [WaferGuard](docs/semivision-defect-copilot.md)
 - [Explainable Industrial Anomaly Detection](docs/explainable-industrial-anomaly-detection.md)
